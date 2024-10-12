@@ -1,26 +1,26 @@
 [
     {
-        "title":"Encrypted",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Escalabilidad",
+        "description":"Las soluciones desarrolladas en Power Platform pueden escalar fácilmente a medida que crece el negocio, soportando un número creciente de usuarios y datos."
     },
     {
-        "title":"Open Source",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Facil integración",
+        "description":"Se integra de manera fluida con otras aplicaciones de Microsoft, como Office 365, Dynamics 365 y Azure, así como con una amplia variedad de servicios de terceros a través de conectores."
     },
     {
-        "title":"Free",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Personalización y flexibilidad",
+        "description":"Las aplicaciones creadas pueden personalizarse según las necesidades específicas del negocio, lo que permite adaptarse rápidamente a cambios en el entorno empresarial."
     },
     {
-        "title":"Fast",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Seguridad y gobernanza",
+        "description":"Power Platform incluye características de seguridad y gestión que permiten controlar el acceso a los datos y las aplicaciones, garantizando la conformidad con las políticas de la organización."
     },
     {
-        "title":"Secure",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Desarrollo rápido",
+        "description":" Power Platform permite a los usuarios crear aplicaciones sin necesidad de conocimientos avanzados de programación, lo que facilita la participación de personas no técnicas."
     },
     {
-        "title":"Cross Platform",
-        "description":"Your data is encripted and stored in secure database"
+        "title":"Comunidad y soporte",
+        "description":"Existe una comunidad activa y recursos de soporte que brindan asistencia y comparten buenas prácticas, lo que facilita el aprendizaje y la resolución de problemas."
     }
 ]
