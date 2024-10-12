@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Proyecto 1",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
+        "imagen":"images/visionarytec.svg"
+    },
+    {
+        "title": "Proyecto 2",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
+        "imagen":"images/visionarytec.svg"
+    },
+    {
+        "title": "Proyecto 3",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
+        "imagen":"images/visionarytec.svg"
+    }
+]
