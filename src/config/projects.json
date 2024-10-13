@@ -1,17 +1,17 @@
 [
     {
-        "title": "Proyecto 1",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
-        "imagen":"images/visionarytec.svg"
+        "title": "Proyecto 1: Applicaciones en Logística",
+        "description":"Se realizó 3 aplicaciones la 1era para manejar el Inventario la cual sirve para realizar el inventario diario de los códigos de almacén al final de todo te envía un reporte para que lo puedas imprimir. Mejoro el tiempo de inventario en un 30% más productivo. La 2da para los reportes diarios de seguridad del almacén de Productos Terminados levanta toda la información en una base de datos en sharepoint al final se emite un reporte en Power BI para llevar el control de los datos. Mejora de 10% para el trabajo de campo y ya se levanta la información la cual antes solo quedaba en reporte. Y la 3era para poder realizar las inspecciones de 5s del almacén de productos terminados y de materia prima. Esto permitió llevar los formatos a la nube con Sharepoint de base de datos.",
+        "imagen":"images/appdata.svg"
     },
     {
-        "title": "Proyecto 2",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
-        "imagen":"images/visionarytec.svg"
+        "title": "Proyecto 2: Aplicaciones en Control de Auditoría",
+        "description":"Se realizó el análisis del proceso junto con la encargada del área usuario.Se propuso mejoras en cuanto al flujo del proceso.Se utilizaron las herramientas de Power Plaform: Power BI, Power Apps, Power Automate y como base de datos Sharepoint y Excel.",
+        "imagen":"images/dashboard.svg"
     },
     {
-        "title": "Proyecto 3",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit totam harum officia temporibus soluta omnis reiciendis, ea vero dignissimos est voluptates sed mollitia nulla ab nemo quod? Nemo pariatur deleniti deserunt tenetur illum quidem voluptates quae distinctio voluptas eligendi explicabo possimus assumenda dignissimos, molestias aliquid, totam dolores impedit tempora? Ad dolorum maxime suscipit labore? Reprehenderit quas dolorum numquam harum possimus!",
-        "imagen":"images/visionarytec.svg"
+        "title": "Proyecto 3: Desarrollo e Implementación de Flujo Automatizado para la renovación de la Evaluación de los transportistas en planta.",
+        "description":"Se realizó un formulario en MS Forms para que los transportistas entren por un link a dar el examen todas las respuestas, los nombres, correo y la calificación final se guarda en  Sharepoint con Power Automate. El problema que se tenía era que los transportistas no renovaban su charla que se vencía al año por esto se creó un flujo con Automate que evaluara la fecha y cuando se encuentre cerca  1 mes de vencer le envíe un correo, luego faltando una semana y luego faltando 1 día. Otro flujo se encarga de que cuando se registre un ingreso para que se actualice la evaluación nueva borre la línea de la evaluación anterior. Antes de esto se perdía de 2 a 3 horas al día por este proceso.",
+        "imagen":"images/userflow.svg"
     }
 ]

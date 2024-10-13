@@ -8,6 +8,7 @@ import features from '../../config/features.json'
     {
         features.map(feature=>(
         <div class="bg-slate-800 p-10 rounded-xl">
+            <img src={feature.imagen} class="w-10 m-auto">
             <h2 class="text-2xl font-bold my-4">{feature.title}</h2>
             <p>{feature.description}</p>
         </div>
